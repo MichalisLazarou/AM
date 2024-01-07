@@ -2,7 +2,7 @@
 
 This repo covers the implementation of the following paper: 
 
-**"Adaptive manifold for imbalanced transductive few-shot learning (WACV 2024)"** [Pre-print](https://arxiv.org/abs/2304.14281), [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.html)
+**"Adaptive manifold for imbalanced transductive few-shot learning (WACV 2024)"** [Pre-print](https://arxiv.org/abs/2304.14281), [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Lazarou_Adaptive_Manifold_for_Imbalanced_Transductive_Few-Shot_Learning_WACV_2024_paper.html)
 <p align='center'>
   <img src='idea_am.png' width="800px">
 </p>
