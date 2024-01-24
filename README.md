@@ -57,7 +57,8 @@ source activate <env>
 
 To reproduce the imbalanced results from Tables 2. and 3. in the paper, from the src/ directory execute this python command. Use the --plc for plc pre-processing
 
-* Please in the config/ directory for both balanced and dirichlet directories in the base_config directory in every `base_config.yaml` file make sure you set up the correct path whereveris required.
+* Please make sure to set up the correct path wherever is required in in the config/directory for both balanced and dirichlet directories in every `base_config.yaml` file. 
+
 ```python
 python main.py --backbone <resnet18/wideres> --config_path <path/to/config> --dataset <mini/cub/tiered> --method <method_name> --balancing dirichlet --phi mus+G+Wb --plc
 ```
