@@ -1,0 +1,7 @@
+METHOD:
+  method: 'PROTOLP'
+  beta: 0.5
+  lam: 10
+  alpha: 0.2
+  PLC: True
+  n_epochs: 100
