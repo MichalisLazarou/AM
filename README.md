@@ -30,7 +30,7 @@ If you find this repo useful for your research, please consider citing the paper
 **This code is based on the codebase of the NeuRIPS 2022 paper "Realistic evaluation of transductive few-shot learning". The following instructions are the same as the aforementioned paper.**
 
 ### 1.1 Quick installation (recommended) (Download datasets and models)
-To download datasets and pre-trained models (checkpoints), follow instructions 1.1.1 to 1.1.2 of NeurIPS 2020 paper "TIM: Transductive Information Maximization" public implementation (https://github.com/mboudiaf/TIM)
+Download datasets and pre-trained models (checkpoints) from this [link][https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2F1drv.ms%2Ff%2Fs!Ak0Hi3lyg2AOgsAVL_O-N7q1w20oOw%3Fe%3D99Stet&data=05%7C02%7Cm.lazarou%40surrey.ac.uk%7Cc434846dc78649fe886a08dc22547209%7C6b902693107440aa9e21d89446a2ebb5%7C0%7C0%7C638422993281252024%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=itF%2FyGMQmSz6OvG1zVYQKa%2F67mROw%2BSeSaTNVtPgujE%3D&reserved=0]
 
 #### 1.1.1 Place datasets
 Make sure to place the downloaded datasets (data/ folder) at the root of the directory.
